@@ -42,7 +42,7 @@ This is Seher Salim.
 - **Others -** HTML, CSS, Canva, Content Writing
 
 <p style="text-align: left; color: #FF6347; font-size: 1.75em">
-  Position of Responsibility
+  Positions of Responsibility
 </p>
 
 - Tech Melange, Department of Computer Science, Shaheed Rajguru College of Applied Sciences for Women — _Event Coordinator_		    	       
