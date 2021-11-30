@@ -1,0 +1,9 @@
+# basic options
+title: Home
+author: Seher Salim
+email: seher.salim@outlook.com
+description: Seher Salim
+github_username: sehersalim
+
+# Build settings
+markdown: kramdown
